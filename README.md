@@ -12,6 +12,7 @@ This project is data visualization task using python, but I finished this task w
 Google Colab (Syntax and Code): https://colab.research.google.com/drive/1W2_IRFhuaVmxt5dt_4B8XWRdZvvodHe6?usp=sharing
 
 Looker studio: https://lookerstudio.google.com/reporting/96b13104-5e3f-47a6-a3ba-7bfd69544b00
+https://lookerstudio.google.com/u/3/reporting/96b13104-5e3f-47a6-a3ba-7bfd69544b00/page/CuYeF
 
 
 # Project Recap
